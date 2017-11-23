@@ -1,3 +1,8 @@
+package Lesson1;
+
+import Lesson2.Fibonacci;
+import Lesson3.Person;
+
 public class HelloWorld {
     public static void main(String[] args){
         System.out.println("Hello world!");

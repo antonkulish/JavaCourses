@@ -1,3 +1,5 @@
+package Lesson2;
+
 public class Fibonacci {
 
     public void printFibonacciNumbers(int numberCounts) {
